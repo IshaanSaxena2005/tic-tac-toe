@@ -9,7 +9,7 @@ This project demonstrates core JavaScript concepts such as **DOM manipulation, e
 
 ## 🚀 Live Demo
 
-(https://ishaansaxena2005.github.io/tic-tac-toe/)
+https://tic-tac-toe-80aw.onrender.com
 
 ---
 
